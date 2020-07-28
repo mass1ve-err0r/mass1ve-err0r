@@ -1,3 +1,5 @@
+![Stats1](https://github-readme-stats.vercel.app/api?username=mass1ve-err0r&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)
+
 # Hello, I'm Saadat Baig! 👋
 ### ⚡️ Summary
 - 22 years old
