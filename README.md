@@ -1,18 +1,17 @@
 # Hello, I'm Saadat Baig! 👋
 ### ⚡️ Summary
-- 22 years old
 - Self-taught cross-platform developer
 - Trilingual translator (Urdu-English-German)
-- Preferred langs: C++, C#, Haskell, Python, x86-64 assembly
+- Preferred langs: `C{,++,#}`, `{C,P}ython`, `Haskell`, `Assembly (x64)`
+- Usually occupied with
+  - reversing binaries
+  - creating something horrendous
+  - working on something hopefully useful to someone / everyone
 
 #### ➡️ You can find my latest shenanigans here or over at [Paradyse Development](https://github.com/Paradyse-Development) !
 
+---
 
-### 📊 Personal Git Stats
-<details>
-  <summary>Tap here to show</summary>
-  
-  ![Stats1](https://github-readme-stats.vercel.app/api?username=mass1ve-err0r&show_icons=true&count_private=true&hide=prs,issues)
-  
-  ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=mass1ve-err0r&hide=html)
-</details>
+<sup>
+<b>Disclaimer:</b> Everything is published "as-is" with the appropriate license, please respect work posted on GitHub from everyone :-)
+</sup>
