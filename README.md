@@ -1,4 +1,5 @@
-# Hello, I'm Saadat Baig! 👋
+# Hello, I'm Saadat Baig! 👋🏽
+
 ### ⚡️ Summary
 - Self-taught cross-platform developer
 - Trilingual translator (Urdu-English-German)
@@ -17,8 +18,6 @@
   - reversing binaries
   - creating something horrendous
   - working on something hopefully useful to someone / everyone
-
-#### ➡️ You can find my latest shenanigans here or over at [Paradyse Development](https://github.com/Paradyse-Development) !
 
 ---
 
